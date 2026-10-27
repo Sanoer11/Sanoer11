@@ -21,14 +21,13 @@ I build AI systems that run where it matters, from multi-agent LLM pipelines to 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**NeedToKnow**](https://github.com/Sanoer11/NEEDTOKNOW-REPO) | Permission-aware RAG: answers only from docs the user is allowed to see | LangGraph, MCP servers |
-| [**ContentForge**](https://github.com/Sanoer11/CONTENTFORGE-REPO) | Autonomous multi-agent social content generator | LangGraph, LLMs |
-| [**Project Sentinel**](https://github.com/Sanoer11/SENTINEL-REPO) | Real-time FOD detection with multi-sensor fusion on edge hardware | Raspberry Pi 5, CV, IEEE paper |
-| [**GraphFlow**](https://github.com/Sanoer11/GRAPHFLOW-REPO) | Traffic forecasting with a T-GCN built from scratch | PyTorch |
-| [**NotesRAG**](https://github.com/Sanoer11/NOTESRAG-REPO) | Chat-with-your-notes RAG app | ChromaDB, Groq, Streamlit |
+| [**NeedToKnow**](https://github.com/Sanoer11/needtoknow) | Permission-aware RAG: answers only from docs the user is allowed to see | LangGraph, MCP servers |
+| [**ContentForge**](https://github.com/Sanoer11/contentforge) | Autonomous multi-agent social content generator | LangGraph, LLMs |
+| [**Project Sentinel**](https://github.com/Sanoer11/edge-ai-runway-fod-detection) | Real-time FOD detection with multi-sensor fusion on edge hardware | Raspberry Pi 5, CV, IEEE paper |
+| [**GraphFlow**](https://github.com/Sanoer11/graphflow) | Traffic forecasting with a T-GCN built from scratch | PyTorch |
+| [**NotesRAG**](https://github.com/Sanoer11/notes-rag) | Chat-with-your-notes RAG app | ChromaDB, Groq, Streamlit |
 
 ---
 
 ### 📌 Currently
-- Seeking **AI/ML & Embedded AI internships** for 2027
-- Formula Student EV team (Acceleracers)
+- Seeking **AI Engineer internships**
